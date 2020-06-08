@@ -1,4 +1,5 @@
-toilet -s slant HACK PAYTM
+Please Subscribe Mr Hacker
+tutrial Video :- 
 pkg update -y
 pkg upgrade -y
 pkg install python python2 -y
