@@ -1,3 +1,4 @@
+toilet -s slant HACK PAYTM
 pkg update -y
 pkg upgrade -y
 pkg install python python2 -y
